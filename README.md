@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @turjot55
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Python and C++
+- 👀 I’m interested in Data Science And I am Full-Stack Web Developer
+- 🌱 I’m currently learning ... ML, AI and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email- turjo_t@yahoo.com
 
