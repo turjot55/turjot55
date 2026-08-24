@@ -59,7 +59,7 @@ I am a passionate Full-Stack Software Developer with a strong interest in Machin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=turjot55&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turjot55&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=turjot55&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 </div>
 <br/>
 <div align="center">
