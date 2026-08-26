@@ -1,6 +1,6 @@
 # About Me:
 
-### Hi there, I'm Turjot!
+### Hi there, I'm Turjo!
 I am a passionate Software Engineer specializing in Full-Stack Web Development, Mobile Applications, and scalable backend architectures. I enjoy building everything from highly cohesive Modular Monoliths to distributed Microservices.
 
 - **I’m currently working on:** Scalable full-stack web apps and cross-platform mobile applications.
